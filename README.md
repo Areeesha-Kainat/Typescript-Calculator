@@ -1,4 +1,4 @@
-                                     Simple TypeScript Calculator :
+# Simple TypeScript Calculator :
                                      
 Project Overview:
 
